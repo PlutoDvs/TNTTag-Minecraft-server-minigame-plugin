@@ -1,0 +1,7 @@
+name: Tnttag
+version: 9.3
+main: me.pluto.tnttag.Tnttag
+softdepend: [PlaceholderAPI, PartyAndFriends, TAB, Parties]
+api-version: 1.13
+authors: [ JasperTheDev ]
+description: A TNT-Tag minigame!
